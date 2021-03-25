@@ -1,4 +1,4 @@
-### 146.LRU Cache
+## 146.LRU Cache
 #### Solution #1:
 * 用到HashMap & Doubly Linkedlist
 * 要求是get & put的时间复杂度为O(1):
@@ -7,13 +7,10 @@
 * Time: O(1)
 * Space: O(n)
 
-### 283. Move Zeros
+## 283. Move Zeros
 #### Solution #1:
-<h>
-  <img src="https://github.com/HackBL/Leetcode/blob/main/Images/283.png" width=70% height=70%>
-</h>
+<img src="https://github.com/HackBL/Leetcode/blob/main/Images/283.png" width=70% height=70%>
 
 * Time: O(n)
 * Space: O(1)
 
-### 222
