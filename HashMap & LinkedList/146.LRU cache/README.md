@@ -1,4 +1,3 @@
-## 146.LRU Cache
 #### Solution #1:
 * 用到HashMap & Doubly Linkedlist
 * 要求是get & put的时间复杂度为O(1):
