@@ -1,5 +1,1 @@
-# Array
-
-
-# HashMap & Linkedlist
 
