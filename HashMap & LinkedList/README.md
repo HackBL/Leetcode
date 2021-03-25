@@ -1,4 +1,5 @@
 ### 146.LRU Cache
+#### Solution #1:
 * 用到HashMap & Doubly Linkedlist
 * 要求是get & put的时间复杂度为O(1):
   * HashMap用于put & get当前的key-value，时间复杂度:O(1)，
@@ -7,7 +8,12 @@
 * Space: O(n)
 
 ### 283. Move Zeros
-<p align="left">
+#### Solution #1:
+<h>
   <img src="https://github.com/HackBL/Leetcode/blob/main/Images/283.png" width=70% height=70%>
-</p>
+</h>
 
+* Time: O(n)
+* Space: O(1)
+
+### 222
