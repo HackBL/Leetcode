@@ -8,6 +8,6 @@
 
 ### 283. Move Zeros
 <p align="left">
-  <img src="https://github.com/HackBL/Leetcode/blob/main/Images/283.png" width=50% height=50%>
+  <img src="https://github.com/HackBL/Leetcode/blob/main/Images/283.png" width=70% height=70%>
 </p>
 
