@@ -1,4 +1,4 @@
-#### 146.LRU Cache
+### 146.LRU Cache
 * 用到HashMap & Doubly Linkedlist
 * 要求是get & put的时间复杂度为O(1):
   * HashMap用于put & get当前的key-value，时间复杂度:O(1)，
