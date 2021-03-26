@@ -8,5 +8,5 @@
 ### HashMap & LinkedList
 | # | Title | Solution |
 |---| ----- | -------- |
-| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/HashMap%20%26%20LinkedList/146.LRU%20cache) | Java | 
+| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/HashMap%20%26%20LinkedList/146.%20LRU%20cache) | Java | 
 
