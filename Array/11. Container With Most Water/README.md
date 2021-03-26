@@ -7,6 +7,7 @@
 <img src="https://github.com/HackBL/Leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water/img/1.png" width=70% height=70%>
 * 由此可见，如果固定左边柱子，移动右边柱子，水的高度不但不会增加，水的宽度还会减少，整体面积就会变小
 <img src="https://github.com/HackBL/Leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water/img/2.png" width=70% height=70%>
+
 * 所以，每次要移动矮的柱子，才会把所有可能的面积全部找出来
 * 最终，通过Math.max方法，得出最大的面积即可
 * Time: O(n)， n: array.length
