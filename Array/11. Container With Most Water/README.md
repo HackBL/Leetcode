@@ -5,7 +5,6 @@
 * 左边的高度较短，决定了水的高度，如果移动左边的柱子，新的水面高度不再确定，但一定不超过右边的高度
 * 如果移动右边的柱子，新的水面高度一定不超过左边柱子的高度
 <img src="https://github.com/HackBL/Leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water/img/1.png" width=70% height=70%>
-<br /><br />
 * 由此可见，如果固定左边柱子，移动右边柱子，水的高度不但不会增加，水的宽度还会减少，整体面积就会变小
 <img src="https://github.com/HackBL/Leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water/img/2.png" width=70% height=70%>
 
