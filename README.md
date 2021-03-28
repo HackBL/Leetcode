@@ -7,8 +7,8 @@
 | 283 | [Move Zeroes](https://github.com/HackBL/Leetcode/tree/main/Array/283.%20Move%20Zeros) | Java | Iterate |
 
 <br /><br />
-### HashMap & LinkedList
+### LinkedList
 | # | Title | Solution | Type |
 |---| ----- | -------- | ---- |
-| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/HashMap%20%26%20LinkedList/146.%20LRU%20cache) | Java | LRU Design |
+| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/HashMap%20%26%20LinkedList/146.%20LRU%20cache) | Java | LRU Design & HashMap |
 
