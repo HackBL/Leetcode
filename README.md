@@ -10,5 +10,5 @@
 ### LinkedList
 | # | Title | Solution | Type |
 |---| ----- | -------- | ---- |
-| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/HashMap%20%26%20LinkedList/146.%20LRU%20cache) | Java | LRU Design & HashMap |
+| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/HashMap%20%26%20LinkedList/146.%20LRU%20cache) | Java | LRU Design <br /> HashMap |
 
