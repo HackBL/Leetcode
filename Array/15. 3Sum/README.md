@@ -9,4 +9,4 @@
       * 若和大于 0，说明 nums[hi] 太大，hi 左移
 
  
-* 时间复杂度：![](http://latex.codecogs.com/gif.latex?O%28n%5E%7B2%7D%29), 数组排序 ![](http://latex.codecogs.com/gif.latex?O%28nlogn%29), 遍历数组 ![](http://latex.codecogs.com/gif.latex?O%28n%29)，双指针遍历 ![](http://latex.codecogs.com/gif.latex?O%28n%29)，总体 ![](http://latex.codecogs.com/gif.latex?O%28n%20logn%29%20&plus;%20O%28n%29%20*%20O%28n%29), ![](http://latex.codecogs.com/gif.latex?O%28n%5E%7B2%7D%29)
+* 时间复杂度：![](http://latex.codecogs.com/gif.latex?O%28n%5E%7B2%7D%29)，数组排序 ![](http://latex.codecogs.com/gif.latex?O%28nlogn%29)，遍历数组 ![](http://latex.codecogs.com/gif.latex?O%28n%29)，双指针遍历 ![](http://latex.codecogs.com/gif.latex?O%28n%29)，总体 ![](http://latex.codecogs.com/gif.latex?O%28n%20logn%29%20&plus;%20O%28n%29%20*%20O%28n%29)，![](http://latex.codecogs.com/gif.latex?O%28n%5E%7B2%7D%29)
