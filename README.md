@@ -11,6 +11,6 @@
 ### LinkedList
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
-| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/HashMap%20%26%20LinkedList/146.%20LRU%20cache) | Medium | Java | LRU Design, HashMap |
+| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/LinkedList/206.%20Reverse%20Linked%20List) | Medium | Java | LRU Design, HashMap |
 | 206 | [Reverse Linked List](https://github.com/HackBL/Leetcode/tree/main/LinkedList/206.%20Reverse%20Linked%20List) | Easy | Java | Iterative, Recursive |
 
