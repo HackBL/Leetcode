@@ -6,3 +6,5 @@
 <img src="https://github.com/HackBL/Leetcode/blob/main/LinkedList/24.%20Swap%20Nodes%20in%20Pairs/img/5.jpg" width=50% height=50%>
 
 #### Solution #2 (递归):
+<img src="https://github.com/HackBL/Leetcode/blob/main/LinkedList/24.%20Swap%20Nodes%20in%20Pairs/img/6.gif" width=50% height=50%>
+
