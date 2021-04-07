@@ -11,6 +11,8 @@
 ### LinkedList
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
+| 24 | [Swap Nodes in Pairs](https://github.com/HackBL/Leetcode/tree/main/LinkedList/24.%20Swap%20Nodes%20in%20Pairs) | Medium | Java | Iterative, Recursive |
+
 | 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/LinkedList/206.%20Reverse%20Linked%20List) | Medium | Java | LRU Design, HashMap |
 | 206 | [Reverse Linked List](https://github.com/HackBL/Leetcode/tree/main/LinkedList/206.%20Reverse%20Linked%20List) | Easy | Java | Iterative, Recursive |
 
