@@ -19,6 +19,3 @@
 | 142 | [Linked List Cycle II](https://github.com/HackBL/Leetcode/tree/main/LinkedList/142.%20Linked%20List%20Cycle%20II) | Medium | Java | Two Pointers, Fast & Slow |
 | 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/LinkedList/146.%20LRU%20cache) | Medium | Java | LRU Design, HashMap |
 | 206 | [Reverse Linked List](https://github.com/HackBL/Leetcode/tree/main/LinkedList/206.%20Reverse%20Linked%20List) | Easy | Java | Iterative, Recursive |
-
-
-<span style="color: red;">text</span>
