@@ -1,0 +1,24 @@
+* 思路：Array从后往前遍历，每遍历一次，加上k，取总和的个位数，存入到list中。k /= 10，为下一个元素做准备。 遍历整个数组，如果k还存在数字（即 != 0)，继续遍历k，一一存入到list中
+* 误区：最开始使用int，把数组和k的数字相加在一起，导致integer overflow
+* 语言：Java
+```
+class Solution {
+    public List<Integer> addToArrayForm(int[] num, int k) {
+        List<Integer> list = new LinkedList<>();
+        
+        for (int i = num.length-1; i >= 0; i--) {
+            k += num[i];
+            list.add(0, k % 10);
+            k /= 10;
+        }
+
+        while (k != 0) {
+            list.add(0, k % 10);
+            k /= 10;
+        }
+        return list;
+    }
+}
+```
+* 时间：O(n), n: max(nums.length, k的长度)
+* Space: O(n), n: max(nums.length, k的长度)
