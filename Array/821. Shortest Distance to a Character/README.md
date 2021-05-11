@@ -1,7 +1,7 @@
 * 思路：先正序，再倒序
-正序：所有在s中的元素（除了c元素），以其左边的c为参照物，求出距离，并存在answer中。若元素的左边没有参照物c，则存入string.length()与当前index的差值。
-倒序：所有在s中的元素（除了c元素），以其右边的c为参照物，求出最小距离（min(answer[o], pos-1)），并存在answer中。
-若当前元素为c，answer当前index的元素为0
+* 正序：所有在s中的元素（除了c元素），以其左边的c为参照物，求出距离，并存在answer中。若元素的左边没有参照物c，则存入```string.length()```与当前index的差值
+* 倒序：所有在s中的元素（除了c元素），以其右边的c为参照物，求出最小距离```min(answer[i], pos-1）```，并存在answer中
+* 若当前元素为c，answer当前index的元素为0
 ```
 class Solution {
     public int[] shortestToChar(String s, char c) {
