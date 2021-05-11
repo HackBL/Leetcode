@@ -10,6 +10,26 @@
 
 * 所以，每次要移动矮的柱子，才会把所有可能的面积全部找出来
 * 最终，通过Math.max方法，得出最大的面积即可
+```
+class Solution {
+    public int maxArea(int[] height) {
+        int lo = 0, hi = height.length-1;
+        int max = 0;
+        
+        while (lo < hi) {
+            int h = Math.min(height[lo], height[hi]);
+            int w = hi - lo;
+            max = Math.max(max, h * w);
+            
+            if (height[lo] < height[hi]) lo++;
+            else hi--;
+        }
+        
+        return max;
+    }
+}
+```
+
 * Time: O(n)， n: array.length
 * Space: O(1)
 
