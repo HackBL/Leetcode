@@ -26,6 +26,18 @@ class Solution {
 #### Solution #2:
 <img src="https://github.com/HackBL/Leetcode/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array/img/2.png" width=20% height=20%>
 
+```
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        int i = 0;
+        for (int n: nums) {
+            if (i == 0 || n > nums[i-1])
+                nums[i++] = n;
+        }
+        return i;
+    }
+}
+```
 * Time: O(n), n: 数组的元素个数
 * Space: O(1)
 
