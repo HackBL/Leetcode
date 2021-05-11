@@ -28,6 +28,7 @@ class Solution {
 
 #### Solution #2:
 <img src="https://github.com/HackBL/Leetcode/blob/main/Array/189.%20rotate%20array/img/2.png" width=30% height=30%>
+
 ```
 class Solution {
     public void rotate(int[] nums, int k) {
