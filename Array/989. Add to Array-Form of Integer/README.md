@@ -20,4 +20,4 @@ class Solution {
 }
 ```
 * 时间：O(n), n: max(nums.length, k的长度)
-* Space: O(n), n: max(nums.length, k的长度)
+* Space: O(1), 除了返回值以外，使用的空间为常数。
