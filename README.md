@@ -2,7 +2,7 @@
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
 | 1 | [Two Sum](https://github.com/HackBL/Leetcode/blob/main/Array/1.%20Two%20Sum.md) | Easy | Java | HashMap |
-| 11 | [Container With Most Water](https://github.com/HackBL/Leetcode/tree/main/Array/11.%20Container%20With%20Most%20Water) | Medium | Java | Two Pointers |
+| 11 | [Container With Most Water](https://github.com/HackBL/Leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water.md) | Medium | Java | Two Pointers |
 | 15 | [3Sum](https://github.com/HackBL/Leetcode/tree/main/Array/15.%203Sum) | Medium | Java | Sort, Two Pointers |
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/HackBL/Leetcode/tree/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | Easy | Java | Two Pointers |
 | 70 | [Climbing Stairs](https://github.com/HackBL/Leetcode/tree/main/Array/70.%20Climbing%20Stairs) | Easy | Java | Fibonacci |
