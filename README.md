@@ -15,9 +15,9 @@
 ### LinkedList
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
-| 24 | [Swap Nodes in Pairs](https://github.com/HackBL/Leetcode/tree/main/LinkedList/24.%20Swap%20Nodes%20in%20Pairs) | Medium | Java | Iterative, Recursive |
-| 25 | [Reverse Nodes in k-Group](https://github.com/HackBL/Leetcode/tree/main/LinkedList/25.%20Reverse%20Nodes%20in%20k-Group) | Hard | Java | Reverse, Recursive |
-| 141 | [Linked List Cycle](https://github.com/HackBL/Leetcode/blob/main/LinkedList/141.%20Linked%20List%20Cycle/README.md) | Easy | Java | Two Pointers, Fast & Slow |
-| 142 | [Linked List Cycle II](https://github.com/HackBL/Leetcode/tree/main/LinkedList/142.%20Linked%20List%20Cycle%20II) | Medium | Java | Two Pointers, Fast & Slow |
-| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/tree/main/LinkedList/146.%20LRU%20cache) | Medium | Java | LRU Design, HashMap |
-| 206 | [Reverse Linked List](https://github.com/HackBL/Leetcode/tree/main/LinkedList/206.%20Reverse%20Linked%20List) | Easy | Java | Iterative, Recursive |
+| 24 | [Swap Nodes in Pairs](https://github.com/HackBL/Leetcode/blob/main/LinkedList/24.%20Swap%20Nodes%20in%20Pairs.md) | Medium | Java | Iterative, Recursive |
+| 25 | [Reverse Nodes in k-Group](https://github.com/HackBL/Leetcode/blob/main/LinkedList/25.%20Reverse%20Nodes%20in%20k-Group.md) | Hard | Java | Reverse, Recursive |
+| 141 | [Linked List Cycle](https://github.com/HackBL/Leetcode/blob/main/LinkedList/141.%20Linked%20List%20Cycle.md) | Easy | Java | Two Pointers, Fast & Slow |
+| 142 | [Linked List Cycle II](https://github.com/HackBL/Leetcode/blob/main/LinkedList/142.%20Linked%20List%20Cycle%20II.md) | Medium | Java | Two Pointers, Fast & Slow |
+| 146 | [LRU Cache](https://github.com/HackBL/Leetcode/blob/main/LinkedList/146.%20LRU%20cache.md) | Medium | Java | LRU Design, HashMap |
+| 206 | [Reverse Linked List](https://github.com/HackBL/Leetcode/blob/main/LinkedList/206.%20Reverse%20Linked%20List.md) | Easy | Java | Iterative, Recursive |
