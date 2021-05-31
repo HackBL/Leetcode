@@ -20,5 +20,5 @@ class Solution {
     }
 }
 ```
-* Time: O(N)
-* Space: O(N)
+* Time: O(N), 如果没有合适的两个元素，循环次数为N, N: nums.length
+* Space: O(N), 如果没有合适的两个元素，需要把所有元素put到map中
