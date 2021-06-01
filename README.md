@@ -23,6 +23,8 @@
 | 206 | [Reverse Linked List](https://github.com/HackBL/Leetcode/blob/main/LinkedList/206.%20Reverse%20Linked%20List.md) | Easy | Java | Iterative, Recursive |
 
 ### Stack
+| # | Title | Difficulty | Solution | Type |
+|---| ----- | ---------- | -------- | ---- |
 | 232 | [Implement Queue using Stacks](https://github.com/HackBL/Leetcode/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.md) | Easy | Java | Design, Amortized |
 
 
