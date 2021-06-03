@@ -27,7 +27,7 @@
 |---| ----- | ---------- | -------- | ---- |
 | 232 | [Implement Queue using Stacks](https://github.com/HackBL/Leetcode/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.md) | Easy | Java | Design, Amortized |
 | 155 | [Min Stack](https://github.com/HackBL/Leetcode/blob/main/Stack/155.%20Min%20Stack.md) | Easy | Java | Design |
-| 94 | [Binary Tree Inorder Traversal](https://github.com/HackBL/Leetcode/blob/main/Stack/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy | Java | Binary Tree Traverse, DFS |
+| 94 | [Binary Tree Inorder Traversal](https://github.com/HackBL/Leetcode/blob/main/Stack/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy | Java | Binary Tree Traverse(DFS) |
 
 
 
