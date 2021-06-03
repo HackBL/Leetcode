@@ -31,8 +31,10 @@
 | 94 | [Binary Tree Inorder Traversal](https://github.com/HackBL/Leetcode/blob/main/Stack/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy | Java | Binary Tree Traverse(DFS) |
 
 <br /><br />
-
-
+### Depth-first Search
+| # | Title | Difficulty | Solution | Type |
+|---| ----- | ---------- | -------- | ---- |
+| 200 | [Number of Islands](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/200.%20Number%20of%20Islands.md) | Medium | Java | Recursive(DFS) |
 
 
 
