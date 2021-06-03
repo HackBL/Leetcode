@@ -28,13 +28,14 @@
 |---| ----- | ---------- | -------- | ---- |
 | 232 | [Implement Queue using Stacks](https://github.com/HackBL/Leetcode/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.md) | Easy | Java | Design, Amortized |
 | 155 | [Min Stack](https://github.com/HackBL/Leetcode/blob/main/Stack/155.%20Min%20Stack.md) | Easy | Java | Design |
-| 94 | [Binary Tree Inorder Traversal](https://github.com/HackBL/Leetcode/blob/main/Stack/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy | Java | Binary Tree Traverse(DFS) |
+
 
 <br /><br />
 ### Depth-first Search
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
 | 200 | [Number of Islands](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/200.%20Number%20of%20Islands.md) | Medium | Java | Recursive(DFS) |
+| 94 | [Binary Tree Inorder Traversal](https://github.com/HackBL/Leetcode/blob/main/Stack/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy | Java | Recursive(DFS), Iterative(DFS) |
 
 
 
