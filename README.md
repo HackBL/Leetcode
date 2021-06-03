@@ -34,8 +34,8 @@
 ### Depth-first Search
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
-| 94 | [Binary Tree Inorder Traversal](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy | Java | Recursive(DFS), Iterative(DFS) |
-| 200 | [Number of Islands](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/200.%20Number%20of%20Islands.md) | Medium | Java | Recursive(DFS) |
+| 94 | [Binary Tree Inorder Traversal](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy | Java | Recursive, Iterative |
+| 200 | [Number of Islands](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/200.%20Number%20of%20Islands.md) | Medium | Java | Recursive |
 
 
 
