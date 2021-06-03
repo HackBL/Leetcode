@@ -35,8 +35,8 @@
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
 | 94 | [Binary Tree Inorder Traversal](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy | Java | Recursive, Iterative |
+| 133 | [Clone Graph](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/133.%20Clone%20Graph.md) | Medium | Java | Recursive |
 | 200 | [Number of Islands](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/200.%20Number%20of%20Islands.md) | Medium | Java | Recursive |
-
 
 
 
