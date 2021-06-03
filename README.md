@@ -21,6 +21,7 @@
 | 142 | [Linked List Cycle II](https://github.com/HackBL/Leetcode/blob/main/LinkedList/142.%20Linked%20List%20Cycle%20II.md) | Medium | Java | Two Pointers, Fast & Slow |
 | 146 | [LRU Cache](https://github.com/HackBL/Leetcode/blob/main/LinkedList/146.%20LRU%20cache.md) | Medium | Java | LRU Design, HashMap |
 | 206 | [Reverse Linked List](https://github.com/HackBL/Leetcode/blob/main/LinkedList/206.%20Reverse%20Linked%20List.md) | Easy | Java | Iterative, Recursive |
+<br /><br />
 
 ### Stack
 | # | Title | Difficulty | Solution | Type |
@@ -28,6 +29,8 @@
 | 232 | [Implement Queue using Stacks](https://github.com/HackBL/Leetcode/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.md) | Easy | Java | Design, Amortized |
 | 155 | [Min Stack](https://github.com/HackBL/Leetcode/blob/main/Stack/155.%20Min%20Stack.md) | Easy | Java | Design |
 | 94 | [Binary Tree Inorder Traversal](https://github.com/HackBL/Leetcode/blob/main/Stack/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy | Java | Binary Tree Traverse(DFS) |
+<br /><br />
+
 
 
 
