@@ -30,11 +30,13 @@
 | 155 | [Min Stack](https://github.com/HackBL/Leetcode/blob/main/Stack/155.%20Min%20Stack.md) | Easy | Java | Design |
 
 <br /><br />
-### Monotonic Stack，单调栈
+### Monotonic Stack
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
-| 42 | [Trapping Rain Water](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/42.%20Trapping%20Rain%20Water.md) | Hard | Java | 入栈，出栈 |
+| 42 | [Trapping Rain Water](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/42.%20Trapping%20Rain%20Water.md) | Hard | Java | 单调栈 |
 | 84 | [Largest Rectangle in Histogram](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/84.%20Largest%20Rectangle%20in%20Histogram.md) | Hard | Java | Forward & Backward |
+| 739 | [Daily Temperatures](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/739.%20Daily%20Temperatures.md) | Medium | Java | 单调栈 |
+
 
 <br /><br />
 ### Depth-first Search
