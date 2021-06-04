@@ -34,7 +34,7 @@
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
 | 42 | [Trapping Rain Water](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/42.%20Trapping%20Rain%20Water.md) | Hard | Java | 入栈，出栈 |
-| 84 | [Largest Rectangle in Histogram](https://github.com/HackBL/Leetcode/blob/main/Stack/84.%20Largest%20Rectangle%20in%20Histogram.md) | Hard | Java | Forward & Backward |
+| 84 | [Largest Rectangle in Histogram](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/84.%20Largest%20Rectangle%20in%20Histogram.md) | Hard | Java | Forward & Backward |
 
 <br /><br />
 ### Depth-first Search
