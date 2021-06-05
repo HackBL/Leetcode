@@ -52,6 +52,10 @@
 |---| ----- | ---------- | -------- | ---- |
 | 542 | [01 Matrix](https://github.com/HackBL/Leetcode/blob/main/Breadth-first%20Search/542.%2001%20Matrix.md) | Medium | Java | BFS |
 
-
+<br /><br />
+### Dynamic Programming
+| # | Title | Difficulty | Solution | Type |
+|---| ----- | ---------- | -------- | ---- |
+| 542 | [01 Matrix](https://github.com/HackBL/Leetcode/blob/main/DP/542.%2001%20Matrix.md) | Medium | Java | BFS |
 
 
