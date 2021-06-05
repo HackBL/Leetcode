@@ -46,8 +46,11 @@
 | 133 | [Clone Graph](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/133.%20Clone%20Graph.md) | Medium | Java | Recursive |
 | 200 | [Number of Islands](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/200.%20Number%20of%20Islands.md) | Medium | Java | Recursive |
 
-
-
+<br /><br />
+### Breadth-first Search
+| # | Title | Difficulty | Solution | Type |
+|---| ----- | ---------- | -------- | ---- |
+| 542 | [01 Matrix](https://github.com/HackBL/Leetcode/blob/main/Breadth-first%20Search/542.%2001%20Matrix.md) | Medium | Java | BFS |
 
 
 
