@@ -56,6 +56,6 @@
 ### Dynamic Programming
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
-| 542 | [01 Matrix](https://github.com/HackBL/Leetcode/blob/main/DP/542.%2001%20Matrix.md) | Medium | Java | BFS |
+| 542 | [01 Matrix](https://github.com/HackBL/Leetcode/blob/main/DP/542.%2001%20Matrix.md) | Medium | Java | DP |
 
 
