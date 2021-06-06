@@ -5,11 +5,14 @@
 | 11 | [Container With Most Water](https://github.com/HackBL/Leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water.md) | Medium | Java | Two Pointers |
 | 15 | [3Sum](https://github.com/HackBL/Leetcode/blob/main/Array/15.%203Sum.md) | Medium | Java | Sort, Two Pointers |
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/HackBL/Leetcode/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy | Java | Two Pointers |
+| 59 | [Spiral Matrix II](https://github.com/HackBL/Leetcode/blob/main/Array/59.%20Spiral%20Matrix%20II.md) | Medium | Java | Spiral Matrix |
 | 70 | [Climbing Stairs](https://github.com/HackBL/Leetcode/blob/main/Array/70.%20Climbing%20Stairs.md) | Easy | Java | Fibonacci |
 | 189 | [rotate array](https://github.com/HackBL/Leetcode/blob/main/Array/189.%20rotate%20array.md) | Medium | Java | Reverse |
 | 283 | [Move Zeroes](https://github.com/HackBL/Leetcode/blob/main/Array/283.%20Move%20Zeros.md) | Easy | Java | Iterative |
 | 821 | [Shortest Distance to a Character](https://github.com/HackBL/Leetcode/blob/main/Array/821.%20Shortest%20Distance%20to%20a%20Character.md) | Easy | Java |  Iterative, DP|
 | 989 | [Add to Array-Form of Integer](https://github.com/HackBL/Leetcode/blob/main/Array/989.%20Add%20to%20Array-Form%20of%20Integer.md) | Easy | Java | Iterative |
+
+
 
 <br /><br />
 ### LinkedList
