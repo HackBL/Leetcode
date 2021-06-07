@@ -32,13 +32,16 @@
 | 146 | [LRU Cache](https://github.com/HackBL/Leetcode/blob/main/LinkedList/146.%20LRU%20cache.md) | Medium | Java | LRU Design, HashMap |
 | 206 | [Reverse Linked List](https://github.com/HackBL/Leetcode/blob/main/LinkedList/206.%20Reverse%20Linked%20List.md) | Easy | Java | Iterative, Recursive |
 
+
 <br /><br />
 ### Stack
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
-| 232 | [Implement Queue using Stacks](https://github.com/HackBL/Leetcode/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.md) | Easy | Java | Design, Amortized |
+| 150 | [Evaluate Reverse Polish Notation](https://github.com/HackBL/Leetcode/blob/main/Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.md) | Medium | Java | 后缀表示法 |
 | 155 | [Min Stack](https://github.com/HackBL/Leetcode/blob/main/Stack/155.%20Min%20Stack.md) | Easy | Java | Design |
-| 1381 | [Design a Stack With Increment Operation](https://github.com/HackBL/Leetcode/blob/main/Stack/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md) | Medium | Java | Design, 空间换时间 |
+| 232 | [Implement Queue using Stacks](https://github.com/HackBL/Leetcode/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.md) | Easy | Java | Design, Amortized |
+| 1381 | [Design a Stack With Increment Operation (https://github.com/HackBL/Leetcode/blob/main/Stack/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md) | Medium | Java | Design, 空间换时间 |
+
 
 <br /><br />
 ### Monotonic Stack
@@ -57,11 +60,13 @@
 | 133 | [Clone Graph](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/133.%20Clone%20Graph.md) | Medium | Java | Recursive |
 | 200 | [Number of Islands](https://github.com/HackBL/Leetcode/blob/main/Depth-first%20Search/200.%20Number%20of%20Islands.md) | Medium | Java | Recursive |
 
+
 <br /><br />
 ### Breadth-first Search
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
 | 542 | [01 Matrix](https://github.com/HackBL/Leetcode/blob/main/Breadth-first%20Search/542.%2001%20Matrix.md) | Medium | Java | BFS |
+
 
 <br /><br />
 ### Dynamic Programming
