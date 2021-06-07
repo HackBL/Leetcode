@@ -38,7 +38,7 @@
 |---| ----- | ---------- | -------- | ---- |
 | 232 | [Implement Queue using Stacks](https://github.com/HackBL/Leetcode/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.md) | Easy | Java | Design, Amortized |
 | 155 | [Min Stack](https://github.com/HackBL/Leetcode/blob/main/Stack/155.%20Min%20Stack.md) | Easy | Java | Design |
-| 1381 | [Design a Stack With Increment Operation](https://github.com/HackBL/Leetcode/blob/main/Stack/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md) | Medium | Java | Design |
+| 1381 | [Design a Stack With Increment Operation](https://github.com/HackBL/Leetcode/blob/main/Stack/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md) | Medium | Java | Design, 空间换时间 |
 
 <br /><br />
 ### Monotonic Stack
