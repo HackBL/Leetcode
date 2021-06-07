@@ -41,7 +41,9 @@
 | 155 | [Min Stack](https://github.com/HackBL/Leetcode/blob/main/Stack/155.%20Min%20Stack.md) | Easy | Java | Design |
 | 232 | [Implement Queue using Stacks](https://github.com/HackBL/Leetcode/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.md) | Easy | Java | Design, Amortized |
 | 394 | [Decode String](https://github.com/HackBL/Leetcode/blob/main/Stack/394.%20Decode%20String.md) | Medium | Java | Stack |
+| 946 | [Validate Stack Sequences](https://github.com/HackBL/Leetcode/blob/main/Stack/946.%20Validate%20Stack%20Sequences.md) | Medium | Java | Two Pointers |
 | 1381 | [Design a Stack With Increment Operation](https://github.com/HackBL/Leetcode/blob/main/Stack/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md) | Medium | Java | Design, 空间换时间 |
+
 
 
 
