@@ -40,7 +40,9 @@
 | 150 | [Evaluate Reverse Polish Notation](https://github.com/HackBL/Leetcode/blob/main/Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.md) | Medium | Java | 后缀表示法 |
 | 155 | [Min Stack](https://github.com/HackBL/Leetcode/blob/main/Stack/155.%20Min%20Stack.md) | Easy | Java | Design |
 | 232 | [Implement Queue using Stacks](https://github.com/HackBL/Leetcode/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.md) | Easy | Java | Design, Amortized |
+| 394 | [Decode String](https://github.com/HackBL/Leetcode/blob/main/Stack/394.%20Decode%20String.md) | Medium | Java | Stack |
 | 1381 | [Design a Stack With Increment Operation](https://github.com/HackBL/Leetcode/blob/main/Stack/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.md) | Medium | Java | Design, 空间换时间 |
+
 
 
 <br /><br />
