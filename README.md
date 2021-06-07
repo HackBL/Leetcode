@@ -13,6 +13,13 @@
 | 989 | [Add to Array-Form of Integer](https://github.com/HackBL/Leetcode/blob/main/Array/989.%20Add%20to%20Array-Form%20of%20Integer.md) | Easy | Java | Iterative |
 
 
+<br /><br />
+### String
+| # | Title | Difficulty | Solution | Type |
+|---| ----- | ---------- | -------- | ---- |
+| 859 | [Buddy Strings](https://github.com/HackBL/Leetcode/blob/main/String/859.%20Buddy%20Strings.md) | Easy | Java | Set |
+
+
 
 <br /><br />
 ### LinkedList
