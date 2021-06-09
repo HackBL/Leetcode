@@ -53,7 +53,9 @@
 |---| ----- | ---------- | -------- | ---- |
 | 42 | [Trapping Rain Water](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/42.%20Trapping%20Rain%20Water.md) | Hard | Java | 单调栈 |
 | 84 | [Largest Rectangle in Histogram](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/84.%20Largest%20Rectangle%20in%20Histogram.md) | Hard | Java | Forward & Backward |
+| 496 | [Next Greater Element I](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/496.%20Next%20Greater%20Element%20I.md) | Easy | Java | 单调递增, Hashmap |
 | 739 | [Daily Temperatures](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/739.%20Daily%20Temperatures.md) | Medium | Java | 单调栈 |
+
 
 
 <br /><br />
