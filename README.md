@@ -56,6 +56,14 @@
 | 496 | [Next Greater Element I](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/496.%20Next%20Greater%20Element%20I.md) | Easy | Java | 单调递增, Hashmap |
 | 739 | [Daily Temperatures](https://github.com/HackBL/Leetcode/blob/main/Monotonic%20Stack/739.%20Daily%20Temperatures.md) | Medium | Java | 单调栈 |
 
+<br /><br />
+### Sliding Window
+| # | Title | Difficulty | Solution | Type |
+|---| ----- | ---------- | -------- | ---- |
+| 209 | [Minimum Size Subarray Sum](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.md) | Medium | Java | 最小满足窗口 |
+
+
+
 
 
 <br /><br />
