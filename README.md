@@ -61,8 +61,7 @@
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
 | 209 | [Minimum Size Subarray Sum](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.md) | Medium | Java | 最小满足窗口 |
-
-
+| 3 | [Longest Substring Without Repeating Characters](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium | Java | 最大满足窗口 |
 
 
 
