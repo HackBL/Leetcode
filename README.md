@@ -61,9 +61,8 @@
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
 | 209 | [Minimum Size Subarray Sum](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.md) | Medium | Java | 最小满足窗口 |
-| 3 | [Longest Substring Without Repeating Characters](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium | Java | 最大满足窗口 |
-| 76 | [Minimum Window Substring![image](https://user-images.githubusercontent.com/19274152/122867265-343b7900-d2f7-11eb-84f3-a49b89db6b01.png)
-](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/76.%20Minimum%20Window%20Substring.md) | Hard | Java | 最小满足窗口 |
+| 3 | [Longest Substring Without Repeating Characters ](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium | Java | 最大满足窗口 |
+| 76 | [Minimum Window Substring](https://user-images.githubusercontent.com/19274152/122867265-343b7900-d2f7-11eb-84f3-a49b89db6b01.png) | Hard | Java | 最小满足窗口 |
 
 
 <br /><br />
