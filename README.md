@@ -63,7 +63,9 @@
 | 3 | [Longest Substring Without Repeating Characters ](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium | Java | 最大满足窗口 |
 | 76 | [Minimum Window Substring](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/76.%20Minimum%20Window%20Substring.md) | Hard | Java | 最小满足窗口 |
 | 209 | [Minimum Size Subarray Sum](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.md) | Medium | Java | 最小满足窗口 |
+| 340 | [Longest Substring with At Most K Distinct Characters](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.md) | Medium | Java | 最大满足窗口 |
 | 567 | [Permutation in String](https://github.com/HackBL/Leetcode/blob/main/Sliding%20Window/567.%20Permutation%20in%20String.md) | Medium | Java | 固定窗口 |
+
 
 
 <br /><br />
