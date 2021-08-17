@@ -29,6 +29,7 @@
 ### LinkedList
 | # | Title | Difficulty | Solution | Type |
 |---| ----- | ---------- | -------- | ---- |
+| 21 | [Merge Two Sorted Lists](https://github.com/HackBL/Leetcode/blob/main/LinkedList/21.%20Merge%20Two%20Sorted%20Lists.md) | Easy | Java | Iterative, Recursive |
 | 24 | [Swap Nodes in Pairs](https://github.com/HackBL/Leetcode/blob/main/LinkedList/24.%20Swap%20Nodes%20in%20Pairs.md) | Medium | Java | Iterative, Recursive |
 | 25 | [Reverse Nodes in k-Group](https://github.com/HackBL/Leetcode/blob/main/LinkedList/25.%20Reverse%20Nodes%20in%20k-Group.md) | Hard | Java | Reverse, Recursive |
 | 141 | [Linked List Cycle](https://github.com/HackBL/Leetcode/blob/main/LinkedList/141.%20Linked%20List%20Cycle.md) | Easy | Java | Fast & Slow Pointers |
