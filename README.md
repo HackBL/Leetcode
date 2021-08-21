@@ -7,6 +7,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/HackBL/Leetcode/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy | Java | Two Pointers |
 | 54 | [Spiral Matrix](https://github.com/HackBL/Leetcode/blob/main/Array/54.%20Spiral%20Matrix.md) | Medium | Java | Spiral Matrix |
 | 59 | [Spiral Matrix II](https://github.com/HackBL/Leetcode/blob/main/Array/59.%20Spiral%20Matrix%20II.md) | Medium | Java | Spiral Matrix |
+| 66 | [Plus One](https://github.com/HackBL/Leetcode/blob/main/Array/66.%20Plus%20One.md) | Easy | Java | Iterative |
 | 70 | [Climbing Stairs](https://github.com/HackBL/Leetcode/blob/main/Array/70.%20Climbing%20Stairs.md) | Easy | Java | Fibonacci |
 | 75 | [Sort Colors](https://github.com/HackBL/Leetcode/blob/main/Array/75.%20Sort%20Colors.md) | Medium | Java | Two Pointers & Iterative |
 | 88 | [Merge Sorted Array](https://github.com/HackBL/Leetcode/blob/main/Array/88.%20Merge%20Sorted%20Array.md) | Easy | Java | Sort |
